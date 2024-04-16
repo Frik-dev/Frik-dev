@@ -1,7 +1,3 @@
-Certainly! Here's a template for your special repository on GitHub as a software engineer starting your journey:
-
----
-
 # Welcome to Frik-dev repository
 ## Introduction
 
