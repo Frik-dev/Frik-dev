@@ -15,7 +15,7 @@ I started my journey in high school where I took my studies which involved compu
 
 ### 2. Projects
 
-Explore the projects I've built during my journey. From simple programs to full-fledged applications, each project represents a milestone in my learning process. Feel free to check out the code, provide feedback, or even collaborate on improving them.
+Explore the projects I've built during my journey. _From simple programs to full-fledged applications_, each project represents a milestone in my learning process. Feel free to check out the code, provide feedback, or even collaborate on improving them.
 
 ### 3. Learning Resources
 
