@@ -10,7 +10,7 @@ I'm Ishimwe Christian, an aspiring software engineer with a keen interest in the
 
 ### 1. Tech Journey
 
-I started my journey in high school where I took my studies which involved computer science then I went ahead and discovered more in the tech industry then I went ahead and chose a software engineering career. 
+I started my journey in high school where I took my studies which involved computer science which lead me to a more discoveries in tech industry then I went ahead and chose a software engineering career path. 
 
 
 ### 2. Projects
